@@ -1,5 +1,5 @@
 # WorldofZugra
-The world of zugra repository
+<p>*The world of zugra repository*</p>
 <img src="Zugra-Ads.gif"><br>
 <img src='zugra-banner.png'><br>
 TODO:
