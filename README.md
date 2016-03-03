@@ -1,7 +1,7 @@
 # WorldofZugra
 The world of zugra repository
-<img src="Zugra-Ads.gif">
-<img src='zugra-banner.png'>
+<img src="Zugra-Ads.gif"><br>
+<img src='zugra-banner.png'><br>
 TODO:
 build a graphic underlay for the pet shop.
 build png files for various pets
