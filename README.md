@@ -13,4 +13,4 @@ Version Information:
 This is a rutimentary creation of a MVP pet module to be added into the already exsisting World of Zugra online game
 It aims to add in the ability for characters to adopt, raise, and battle with a pet.
 
-<img src="zugra-ads.gif">
+<img src="Zugra-Ads.gif">
